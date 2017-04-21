@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: studentRecord-2sd14cs049
+  host: studentRecord-2sd14cs049
+  disk_quota: 1024M
